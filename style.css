@@ -1,0 +1,13 @@
+body{
+    background-color: hotpink;
+}
+h1{
+    color: azure;
+    font-size: 60px;
+    text-align: center;
+}
+p {
+    color: azure;
+    font-size: 40px;
+    text-align: center;
+}
